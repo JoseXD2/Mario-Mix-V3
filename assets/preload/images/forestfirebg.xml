@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tripletroublebg.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="p3bg0000" x="2" y="2" width="2500" height="1500"/>
+	<SubTexture name="p3bg0001" x="2" y="2" width="2500" height="1500"/>
+	<SubTexture name="p3bg0002" x="2507" y="2" width="2500" height="1500"/>
+	<SubTexture name="p3bg0003" x="2507" y="2" width="2500" height="1500"/>
+	<SubTexture name="p3bg0004" x="5012" y="2" width="2500" height="1500"/>
+	<SubTexture name="p3bg0005" x="5012" y="2" width="2500" height="1500"/>
+</TextureAtlas>

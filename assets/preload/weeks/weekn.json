@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "p135",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"dire attempt 2401",
+			"2401",
+			[
+				67,
+				104,
+				58
+			]
+		],
+		[
+			"hear its cry",
+			"smb3mario",
+			[
+				181,
+				49,
+				0
+			]
+		],
+		[
+			"lookin for milfs",
+			"omegle",
+			[
+				164,
+				209,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": true
+}

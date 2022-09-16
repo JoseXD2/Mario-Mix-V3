@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		140,
+		90
+	],
+	"scale": 0.7,
+	"flipX": false,
+	"image": "mario_menu"
+}

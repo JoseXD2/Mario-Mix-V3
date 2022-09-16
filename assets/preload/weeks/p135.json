@@ -1,0 +1,49 @@
+{
+	"storyName": "Incremented power",
+	"difficulties": "Normal, Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"illusion",
+			"p1",
+			[
+				255,
+				51,
+				102
+			]
+		],
+		[
+			"time-attack",
+			"p3",
+			[
+				26,
+				61,
+				7
+			]
+		],
+		[
+			"mario-is-missing",
+			"luigi",
+			[
+				102,
+				255,
+				102
+			]
+		]
+	],
+	"weekCharacters": [
+		"mario_menu",
+		"",
+		"bf"
+	],
+	"weekName": "Custom Week"
+}

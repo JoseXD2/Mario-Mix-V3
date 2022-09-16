@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				430,
+				60
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				337,
+				198
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hey",
+			"loop": false,
+			"name": "spin"
+		},
+		{
+			"offsets": [
+				320,
+				88
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"loop": false,
+			"name": "yoshi right"
+		},
+		{
+			"offsets": [
+				417,
+				60
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"loop": false,
+			"name": "yoshi left"
+		},
+		{
+			"offsets": [
+				388,
+				102
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP-alt",
+			"loop": false,
+			"name": "yoshi up"
+		},
+		{
+			"offsets": [
+				389,
+				56
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"loop": false,
+			"name": "yoshi down"
+		},
+		{
+			"offsets": [
+				473,
+				55
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "oogtar left"
+		},
+		{
+			"offsets": [
+				384,
+				87
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "oogtar up"
+		},
+		{
+			"offsets": [
+				319,
+				74
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "oogtar right"
+		},
+		{
+			"offsets": [
+				438,
+				13
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "oogtar down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/yoshi_and_oogtar",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "ratgoo",
+	"flip_x": false,
+	"healthbar_colors": [
+		100,
+		137,
+		124
+	],
+	"camera_position": [
+		-420,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

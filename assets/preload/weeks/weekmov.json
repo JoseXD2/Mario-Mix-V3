@@ -1,0 +1,50 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "p135",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"soup",
+			"moron",
+			[
+				248,
+				64,
+				112
+			]
+		],
+		[
+			"punk",
+			"hotmetal",
+			[
+				51,
+				51,
+				51
+			]
+		],
+		[
+			"crank",
+			"gangsta",
+			[
+				187,
+				57,
+				79
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}
